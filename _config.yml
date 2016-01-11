@@ -2,6 +2,7 @@ name: '#BarrysLounge'
 favicon: null
 layout_spectrum: 0.4987910492345691
 typography_spectrum: 0.28615873004309833
+title: '#BarrysLounge'
 cta:
   domain: null
   bucket: null
