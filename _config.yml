@@ -1,8 +1,8 @@
-typography_spectrum: 0.1899642
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: '#BarrysLounge '
+favicon: null
+layout_spectrum: 0.4283154
+typography_spectrum: 0.2861587300430983
+title: '#BarrysLounge'
 collections:
   - index:
       path: /
@@ -15,27 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.5035842
-title: '#BarrysLounge'
-purpose: []
-color:
-  saturation: 0.5
-  brandStrength: 0.5
-  rhythmicContrast: 0.5053763
-  brandColors:
-    - '#171695'
-    - '#FFFFFF'
-    - '#5451A4'
-    - '#9191CF'
-    - '#C9C7D6'
-  lightness: 0.5
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-favicon: null
 analytics:
-  twitter: null
   google: UA-72330144-1
   facebook: null
-name: '#BarrysLounge '
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#171695'
+    - '#ffffff'
+    - '#cd7e7a'
+    - '#a8262f'
+    - '#97b667'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.4169393111951649
+purpose: []
