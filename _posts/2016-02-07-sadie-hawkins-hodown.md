@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "An American folk event, Sadie Hawkins HoDown is a hillbilly's comic strip pseudo-holiday where girls ask boys out !"
-datePublished: '2016-02-07T09:31:21.401Z'
-dateModified: '2016-02-07T09:31:05.590Z'
+datePublished: '2016-02-07T09:33:17.405Z'
+dateModified: '2016-02-07T09:33:12.650Z'
 title: Sadie Hawkins HoDown
 author: []
 sourcePath: _posts/2016-02-07-sadie-hawkins-hodown.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: sadie-hawkins-hodown/index.html
-_type: Article
+_type: Blurb
 
 ---
 "When ah fires \[my gun\], all o' yo' kin start a-runnin! When ah fires agin---after givin' yo' a fair start---Sadie starts a runnin'. Th' one she ketches'll be her husbin."
