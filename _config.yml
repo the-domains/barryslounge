@@ -1,4 +1,4 @@
-typography_spectrum: 0.2861587300430983
+name: '#BarrysLounge '
 opengraph:
   image: null
   type: null
@@ -9,12 +9,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.4283154
 title: '#BarrysLounge'
 cta:
@@ -34,8 +34,8 @@ color:
   lightness: 0.5
 purpose: []
 favicon: null
+typography_spectrum: 0.2861587300430983
 analytics:
   twitter: null
   google: UA-72330144-1
   facebook: null
-name: '#BarrysLounge '
