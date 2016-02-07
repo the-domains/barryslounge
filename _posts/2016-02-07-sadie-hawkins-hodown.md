@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "An American folk event, Sadie Hawkins HoDown is a hillbilly's comic strip pseudo-holiday where girls ask boys out !"
-datePublished: '2016-02-07T09:58:55.393Z'
-dateModified: '2016-02-07T09:58:48.988Z'
+datePublished: '2016-02-07T10:57:06.477Z'
+dateModified: '2016-02-07T09:59:02.014Z'
 title: Sadie Hawkins HoDown
 author: []
 sourcePath: _posts/2016-02-07-sadie-hawkins-hodown.md
