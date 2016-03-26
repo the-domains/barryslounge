@@ -4,7 +4,7 @@
         <description><![CDATA[#BarrysLounge]]></description>
         <link>http://www.barryslounge.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 07:55:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 07:57:23 GMT</lastBuildDate>
         <atom:link href="http://www.barryslounge.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>http://www.barryslounge.co.uk/5a866025-979d-4865-ba0a-de8ea60b59e3/index.html</link>
             <guid isPermaLink="false">5a866025-979d-4865-ba0a-de8ea60b59e3</guid>
             <pubDate>Fri, 25 Mar 2016 09:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85059d6d-705e-4003-8236-b4b4ce5318e1.JPG">]]></description>
-            <link>http://www.barryslounge.co.uk/d6734342-066f-4681-9acc-9240515b176d/index.html</link>
-            <guid isPermaLink="false">d6734342-066f-4681-9acc-9240515b176d</guid>
-            <pubDate>Tue, 12 Jan 2016 04:08:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
