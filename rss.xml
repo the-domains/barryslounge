@@ -4,7 +4,7 @@
         <description><![CDATA[#BarrysLounge]]></description>
         <link>http://www.barryslounge.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 20:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 20:07:02 GMT</lastBuildDate>
         <atom:link href="http://www.barryslounge.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[#BarrysLounge #UpTheMarket]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.barryslounge.co.uk/5a866025-979d-4865-ba0a-de8ea60b59e3/index.html</link>
             <guid isPermaLink="false">5a866025-979d-4865-ba0a-de8ea60b59e3</guid>
             <pubDate>Sun, 10 Apr 2016 20:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e640fc24-ae88-4b01-8246-10dd2d67197f.jpg">]]></description>
+            <link>http://www.barryslounge.co.uk/in-association-with-rough-trade-west-and-in-celebration-of-r/index.html</link>
+            <guid isPermaLink="false">0a913aed-707f-42c8-ba6c-ae87b48a97ca</guid>
+            <pubDate>Sun, 10 Apr 2016 20:06:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
