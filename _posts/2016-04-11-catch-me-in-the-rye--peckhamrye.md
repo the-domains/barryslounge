@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'http://www.theninespeckham.co.uk/'
-datePublished: '2016-04-11T09:46:45.059Z'
-dateModified: '2016-04-11T07:35:53.195Z'
-title: 'Catch me in The Rye .... #PeckhamRye'
+datePublished: '2016-04-23T23:47:35.089Z'
+dateModified: '2016-04-23T23:35:16.454Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-11-catch-me-in-the-rye--peckhamrye.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: catch-me-in-the-rye--peckhamrye/index.html
 _type: Article
 
