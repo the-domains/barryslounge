@@ -3,12 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
 keywords: []
 description: 'In association with Rough Trade West and in celebration of Record Store Day 2016 #BarryLounge will be playing a selection of his 7"s , including some #RSD16 specials from a market stall in Blenheim Crescent W11 on Saturday 16th April between 13:00 and 16:30 .... #ComeDancing !'
-datePublished: '2016-04-10T20:15:03.975Z'
-dateModified: '2016-04-10T20:14:19.106Z'
-title: '#BarrysLounge #RSD16 Special'
+datePublished: '2016-04-24T09:14:20.295Z'
+dateModified: '2016-04-23T23:35:28.314Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-10-in-association-with-rough-trade-west-and-in-celebration-of-r.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: in-association-with-rough-trade-west-and-in-celebration-of-r/index.html
 _type: Article
 
